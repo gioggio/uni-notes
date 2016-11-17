@@ -1,3 +1,3 @@
 # uni-notes
 
-A collection of notes from my Computer Engineering courses [@UniBO](http://www.unibo.it).
+A collection of Jupyter Notebooks with notes from my Computer Engineering courses [@UniBO](http://www.unibo.it).
